@@ -4,7 +4,7 @@
  */
 package potenzaproject;
 
-public class PotenzaProject {
+public class PotenzaProj {
     
     public static void main(String[] args) {
         
